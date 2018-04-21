@@ -1,0 +1,161 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#main{
+    width: 100%;
+    min-height: 3000px;
+    background :White;
+    margin-top: 0px;
+}
+
+.slide{
+    width: 100%;
+    min-height: 600px;
+    background: black;
+}
+.menu-simplon{
+    width: 100%;
+    background:White;
+    margin-top: 40px;
+    margin-top: 50px;
+  
+}
+.menu-simplon-img-new{
+    width: 30%;
+    margin-left: 3%;
+    float: left;
+}
+.menu-simplon-img-new1{
+    width: 400px;
+    margin-left: 3%;
+    float: left;
+    background: blueviolet;
+     min-height: 500px;
+     margin-top: 50px;
+}
+.menu-simplon-img-saleoff{
+    width: 30%;
+  
+    margin-left: 2%;
+    float: left;
+}
+.menu-simplon-img-favorite{
+    width: 30%;
+   
+    margin-left: 2%;
+    float: left;
+}
+.main-product{
+    width: 100%;
+    height: 4500px;
+    background:#F2F2F2;
+    float: left;
+    margin-top: 50px;
+}
+.main-product-top{
+    width: 1200px;
+    height: 3500px;
+    background:#F2F2F2;
+    margin: auto;
+}
+.footer-end{
+    width: 100%;
+    height: 1000px;
+    background: black;
+}
+.footer-end-img{
+    width: 100%;
+    height: 350px;
+    background:springgreen;
+    z-index: 1;
+}
+.footer-end-img2{
+    widows: 100%;
+    height: 350px;
+    background: #F2F2F2;
+    z-index: 2;
+    opacity: 0.7;
+    margin-top: -350px;
+}
+.footer-end-text{
+     widows: 100%;
+    height: 300px;
+    background: white;
+}
+.footer-end-thanhtoan{
+    widows: 100%;
+    height: 350px;
+    background:#212121;
+}
+.footer-end-thanhtoan-img{
+    width: 40%;
+    height: 350px;
+    margin: auto;
+}
+ p{
+    text-align: center;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main-product-all{
+    width: 90%;
+    height: 95%;
+    background: #F2F2F2;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+.row{
+    width: 1200px;
+    height: 14%;
+    background: #F2F2F2;
+    margin: auto;
+}
+.row1{
+    width: 1200px;
+    height: 14%;
+    background:#F2F2F2;
+    margin: auto;
+    margin-top: 50px;
+}
+.text1{
+    width: 30%;
+    height: 100%;
+    background: white;
+    float: left;
+}
+.text2{
+    width: 30%;
+    height: 100%;
+    background: white;
+    margin-left: 5%;
+    float: left;
+}
+.text3{
+    width: 30%;
+    height: 100%;
+    background: white;
+    margin-left: 5%;
+    float: left;
+    
+}
+.text-img{
+    width: 100%;
+    height: 70%;
+    background: violet;
+}
+.text-mua{
+    width: 100%;
+    height: 30%;
+    background: turquoise;
+}
+.text-img:hover
+{
+    background:tomato;
+}
+@media only screen and (max-width:1240px)
+{
+
+}
+        /* Menu sản phẩm */               
